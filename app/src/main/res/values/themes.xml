@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FunnyQuotes" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#C55F33</item>
+    </style>
+
+    <style name="Theme.FunnyQuotes" parent="Base.Theme.FunnyQuotes" />
+</resources>
